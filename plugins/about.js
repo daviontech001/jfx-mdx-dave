@@ -5,7 +5,7 @@ const { cmd } = require("../command");
 
 cmd({
     pattern: "about",
-    alias: ["jephter","whois"], 
+    alias: ["Davion","whois"], 
     react: "👑",
     desc: "get owner dec",
     category: "main",
@@ -27,13 +27,13 @@ async (conn, mek, m, {
 
         // About caption
         let about = `
-*╭━〔 ᴊꜰx ᴍᴅ-xᴠ3 〕━┈⊷*
+*╭━〔 ᴊꜰx ᴍᴅ-xᴠ3 Davion Version 〕━┈⊷*
 *👋 HELLO _${pushname}_*
 *╰────────────┈⊷*
 
 > *╭───〔 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲 〕───╮*
 > *┃Creator  : ᴊᴇᴘʜᴛᴇʀ ᴛᴇᴄʜ*
-> *┃Real Name: ᴊᴇᴘʜᴛᴇʀ*
+> *┃Real Name: Garri*
 > *┃Alias    : ᴊꜰx ᴍᴅ-xᴠ3*
 > *┃Age      : Secret 😎*
 > *┃Location : Lagos, Nigeria 🇳🇬*
